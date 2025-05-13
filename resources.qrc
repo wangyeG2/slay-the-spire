@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/scene.png</file>
+        <file>resources/character.png</file>
+        <file>resources/enemy.png</file>
+        <file>resources/empty1.png</file>
+        <file>resources/cards/strike.png</file>
+        <file>resources/cards/defend.png</file>
+        <file>resources/cards/auto-shields.png</file>
+    </qresource>
+</RCC>
